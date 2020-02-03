@@ -9,6 +9,5 @@ Esta es una prueba de como insetar codigo en Markdown
 `
 
 *  Creado por el increible Platzi Team
-*  Creado por el increible Platzi Team
 *  Incluye ejemplos de diversos SO
 *  Disponible con la suscripcion
